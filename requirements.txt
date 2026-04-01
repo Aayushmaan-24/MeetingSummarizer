@@ -1,0 +1,13 @@
+# Smart Meeting Summarizer — dependencies (all free/open-source)
+
+# Local transcription — runs Whisper on CPU, no GPU required
+faster-whisper>=1.0.0
+
+# CLI framework
+click>=8.1.0
+
+# Beautiful terminal output
+rich>=13.0.0
+
+# (Optional) ffmpeg-python for pre-processing audio if needed
+# ffmpeg-python>=0.2.0
